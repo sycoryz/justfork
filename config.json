@@ -1,0 +1,36 @@
+{
+    "ownerNumber": "6282211991425@s.whatsapp.net", 
+    "ownerName": "My Owner", 
+    "botName": "Dream Guy by Brynzx",
+    "footer": "Whatsapp Bot", 
+    "sessionName": "session", 
+    "pathimg": "./media/logo.jpg", 
+    "pathqris": "./media/qris.jpg",
+    "group": "https://chat.whatsapp.com/CHZ3Mq6IekeEIeLpPnVRiZ",
+    "yootube": "https://youtube.com/channel/UCxBhrQnX6KEyy9i96nid9AQ",
+     
+    "QrisAllPay": "https://telegra.ph/file/d015def9028eb1c0a156b.jpg",
+    "textBarisDonate1": "Dana : 0822-1199-1425",
+    "textBarisDonate2": "-",
+    "textBarisDonate3": "-",
+    "textBarisDonate4": "Pulsa Telkomsel : 0822-1199-1425",
+  
+    "ButtonTextMenu1": "Youtube",
+    "ButtonTextMenu2": "My Tiktok",
+    "quickReplyButton3": "Rules",
+    "quickReplyButton4": "Donasi",
+    "quickReplyButton5": "Dashboard",
+  
+    "ButtonMenuLink1": "https://youtube.com/channel/UCxBhrQnX6KEyy9i96nid9AQ",
+    "ButtonMenuLink2": "tiktok.com/@brynzx06",
+    "displayTextMenu3": "rules",
+    "displayTextMenu4": "donasi",
+    "displayTextMenu5": "dashboard",
+    "limitCount": 100,
+    "limitGame": 35,
+    "gamewaktu": 90,
+    "sticker": {
+        "packname": "Dream Guy By",
+        "author": "Brynzx"
+    }
+}
